@@ -1,6 +1,8 @@
 # Boggling_the_Boardhouse
 Slides and Resources for Hackaday SuperCon 2019 Talk
 
+You can watch the recorded talk [here](https://www.youtube.com/watch?v=rAXmzt-_NZ4)
+
 ## Thanks for coming to my talk at Hackaday Supercon 2019
 You can follow me on twitter at [northallenpoole](https://twitter.com/NorthAllenPoole) or email me at [nick@signalditch.com](nick@signalditch.com) with questions! I'll continue to add resources here as I find time over the weekend.
 
